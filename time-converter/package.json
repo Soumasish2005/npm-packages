@@ -1,0 +1,23 @@
+{
+  "name": "js-time-conversion",
+  "version": "1.0.1",
+  "description": "A lightweight utility to convert time strings to milliseconds and vice versa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Th85534/time-converter.git"
+  },
+  "keywords": [
+    "time",
+    "conversion",
+    "milliseconds",
+    "time-utilities",
+    "date"
+  ],
+
+  "author": "Soumasish Dasgupta",
+  "license": "MIT"
+}

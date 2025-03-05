@@ -1,0 +1,31 @@
+{
+  "name": "easydsa",
+  "version": "2.0.0",
+  "description": "A simple Data Structures and Algorithms (DSA) library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "DSA",
+    "algorithms",
+    "data-structures",
+    "search",
+    "sorting"
+  ],
+  "author": "Soumasish Dasgupta",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Th85534/easydsa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Th85534/easydsa/issues"
+  },
+  "homepage": "https://github.com/Th85534/easydsa#readme",
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
