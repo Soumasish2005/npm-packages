@@ -1,6 +1,6 @@
 {
   "name": "js-time-conversion",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight utility to convert time strings to milliseconds and vice versa.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Th85534/time-converter.git"
+    "url": "https://github.com/Th85534/npm-packages.git"
   },
   "keywords": [
     "time",
