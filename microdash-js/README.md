@@ -1,6 +1,6 @@
 # Microdash-JS
 
-![npm](https://img.shields.io/npm/v/microdash-js) ![License](https://img.shields.io/npm/l/microdash-js) 
+![npm](https://img.shields.io/npm/v/microdash-js?color=orange) ![License](https://img.shields.io/npm/l/microdash-js) 
 
 <!-- ![Downloads](https://img.shields.io/npm/dt/microdash-js) -->
 
