@@ -100,7 +100,7 @@ Want to improve this package? Feel free to **fork** and submit a **pull request*
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Th85534/npm-packages.git
+   git clone https://github.com/Soumasish2005/npm-packages.git
    ```
 2. Make changes and push to a new branch.
 3. Submit a **Pull Request**!
