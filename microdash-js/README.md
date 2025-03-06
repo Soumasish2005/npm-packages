@@ -106,7 +106,7 @@ npm test
 ```
 
 ## 📜 License
-MIT License © 2025 [Your Name](https://github.com/Th85534)
+MIT License © 2025 [Th85534](https://github.com/Th85534)
 
 ## 🌟 Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
