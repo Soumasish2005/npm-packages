@@ -112,5 +112,5 @@ MIT License © 2025 [Soumasish2005](https://github.com/Soumasish2005)
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ## 📬 Contact
-- GitHub: [microdash-js](https://github.com/Th85534/npm-packages/microdash-js)
+- GitHub: [microdash-js](https://github.com/Soumasish2005/npm-packages/microdash-js)
 - npm: [microdash-js](https://www.npmjs.com/package/microdash-js)
