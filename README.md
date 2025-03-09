@@ -55,11 +55,11 @@ Contributions are welcome! Feel free to open issues and submit pull requests for
 
 ## License
 
-This repository is licensed under the MIT License. See the individual package README files for more details.
+This repository is licensed under the ISC & MIT Licenses. See the individual package README files for more details.
 
 ## Contact
 
-For any questions or inquiries, please contact the repository owner.
+For any questions or inquiries, please contact the [repository owner](https://github.com/Soumasish2005).
 
 ---
 
